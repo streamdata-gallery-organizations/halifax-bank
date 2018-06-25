@@ -5,7 +5,7 @@ description: This is a repository of halifax bank APIs, self-contained as a Gith
   operations.
 image: http://template.streamdata.gallery/assets/halifax-bank.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://halifax-bank.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
