@@ -4,7 +4,7 @@ url: halifax-bank.streamdata.gallery
 tag: Halifax Bank
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: halifax-bank
 github_branch: master
 collections:

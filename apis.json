@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Halifax Bank",
+	"description": "This is a repository of halifax bank APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/halifax-bank.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://halifax-bank.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Halifax Bank",
+			"x-api-slug": "halifax-bank",
+			"description": "Halifax is a British bank operating as a trading division of Bank of Scotland, itself a wholly owned subsidiary of Lloyds Banking Group. It is named after the town of Halifax, West Yorkshire where it was founded as a building society in 1853",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Halifax_Logo.png",
+			"humanURL": "https://www.halifax.co.uk/",
+			"baseURL": "https://api.halifax.co.uk/open-banking/v2.1/",
+			"tags": "Halifax Bank",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/halifax-bank/master/_listings/halifax-bank/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Halifax Bank",
+	"include": [
+		{
+			"name": "Halifax Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/halifax-bank/master/_listings/halifax-bank/apis.yaml"
+		}
+	]
+}
